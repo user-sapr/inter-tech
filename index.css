@@ -1,7 +1,10 @@
+* {
+  scroll-behavior: smooth;
+}
 body {
     font-family: sans-serif; /*ff*/
     margin: 0; /*m0*/
-   }
+  }
   a {
     text-decoration: none; /*tdn*/
     color: #fff;
